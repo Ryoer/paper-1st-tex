@@ -1,0 +1,25 @@
+{
+  "default": {
+    "container-title": {
+      "Annual Review of Chemical and Biomolecular Engineering": "Annu. Rev. Chem. Biomol. Eng.",
+      "Biochemical Engineering Journal": "Biochem. Eng. J.",
+      "Chemical Engineering Science": "Chem. Eng. Sci.",
+      "Chinese Journal of Chemical Engineering": "Chin. J. Chem. Eng.",
+      "Electrochimica Acta": "Electrochimica Acta",
+      "Energies": "Energies",
+      "Experimental Thermal and Fluid Science": "Exp. Therm. Fluid Sci.",
+      "Industrial &amp; Engineering Chemistry Research": "Ind. &amp Eng. Chem. Res.",
+      "International Conference on Multiphase Flow": "Int. Conf. Multiph. Flow",
+      "International Journal of Hydrogen Energy": "Int. J. Hydrogen Energy",
+      "International Journal of Multiphase Flow": "Int. J. Multiph. Flow",
+      "Joule": "Joule",
+      "Journal of Applied Electrochemistry": "J. Appl. Electrochem.",
+      "Journal of Physics: Conference Series": "J. Phys. Conf. Ser.",
+      "Nature Chemistry": "Nat. Chem.",
+      "Processes": "Processes",
+      "Renewable and Sustainable Energy Reviews": "Renew. Sustain. Energy Rev.",
+      "The Journal of Computational Multiphase Flows": "J. Comput. Multiph. Flow",
+      "Zeit. Ver. Deutsch. Ing.": "Zeit Ver Dtsch. Ing"
+    }
+  }
+}
